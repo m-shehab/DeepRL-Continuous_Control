@@ -1,0 +1,3 @@
+- **reacher.gif:** Arm environment 
+- **episodes.JPG:** episodes required to solve the environment 
+- **scores.JPG:** average reward vs. episodes 
