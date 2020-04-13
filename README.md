@@ -38,4 +38,4 @@ The task is episodic, and in order to solve the environment:
 3. Download the `Continuous_Control.ipynb`, `model.py` and `ddpg_agent.py` files in the DeepRL-Navigation GitHub repository and make them accessible to your python environment.   
 
 ## Trining 
-Execute the provided notebook within Deep Reinforcement Learning Udacity online workspace for navigation project after modifying `Continuous_Control.ipynb` and related files.
+Execute the provided notebook within Deep Reinforcement Learning Udacity online workspace for continuous_control project after modifying `Continuous_Control.ipynb` and related files.
