@@ -8,6 +8,7 @@ An actor-critic agent uses function approximation to learn a policy and a value 
 one for the actor and the other for the critic. The figure below shows the flow diagram of actor critic methods: 
 
 ![img_2](Figures/Flow.png)
+
 Figure [reference](https://www.researchgate.net/publication/221485561_Automatic_speech_recognition_based_on_adaptation_and_clustering_using_temporal-difference_learning)
  
  
@@ -23,6 +24,7 @@ The DDPG is a different type of actor-critic methods. Actually, it could be seen
 in DDPG is used to approximate the maximizer over the Q-values of the next state. DDPG is best classified as a DQN method for continuous action spaces.
 
 ![img_3](Figures/DDPG.ppm)
+
 Figure [reference](https://www.researchgate.net/publication/322879739_Deep_Reinforcement_Learning_for_Advanced_Energy_Management_of_Hybrid_Electric_Vehicles)
 
 ### Nework Architecture 
